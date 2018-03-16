@@ -1,0 +1,38 @@
+.training-track {
+  @icon-size: 24px;
+  @track-height: 14px;
+
+  border-top: 1px solid transparent;
+  border-bottom: 1px solid transparent;
+
+  h2 {
+    font-size: 0.8rem;
+    line-height: 0.8rem;
+    font-weight: normal;
+    margin: 4px 0 0;
+    padding: 0 0 4px;
+  }
+
+  .icon {
+    position: absolute;
+    width: @icon-size;
+    height: @icon-size;
+  }
+
+  .progress-container {
+    height: @track-height;
+    border-radius: 0;
+    width: ~"calc(100% - @{icon-size})";
+    margin: ((@icon-size - @track-height) / 2) 0;
+    margin-left: @icon-size;
+  }
+
+  .progress-bar {
+    border-radius: 0;
+  }
+
+  .progress-text {
+    font-size: (@track-height - 2);
+    line-height: @track-height;
+  }
+}
