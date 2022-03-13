@@ -2,8 +2,17 @@ import { flatten } from "../utility/array";
 
 const apiRoot = "https://api.guildwars2.com/v2";
 
+function ActionQueue() {
+  this._current = Promise.resolve();
+}
+
+ActionQueue.prototype.execute = function execute(func) {
+  return (this._current = this._current.then(() => func()));
+};
+
 function Gw2Api(apiKey) {
   this._apiKey = apiKey;
+  this._queue = new ActionQueue();
 }
 
 Gw2Api.prototype._apiFetch = function apiFetch(uri, authenticated) {
@@ -24,7 +33,9 @@ Gw2Api.prototype._apiFetch = function apiFetch(uri, authenticated) {
     remoteUri += "access_token=" + this._apiKey;
   }
 
-  return fetch(remoteUri, params).then(res => res.json());
+  return this._queue.execute(() =>
+    fetch(remoteUri, params).then(res => res.json())
+  );
 };
 
 Gw2Api.prototype._distributedFetch = function distributedFetch(
