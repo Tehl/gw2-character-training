@@ -36,7 +36,7 @@
         "name": "Shout Training",
         "totalCost": 24,
         "icon":
-          "https://render.guildwars2.com/file/0D6B235E679346723414607E61DE052576097545/104025.png"
+          "https://render.guildwars2.com/file/999EEC803BE421BD0835D8DC1EFE70C3A0EA0903/104117.png"
       }
     ],
     "specs": [
@@ -90,6 +90,13 @@
         "totalCost": 250,
         "icon":
           "https://render.guildwars2.com/file/6D18B2D3EE0BFA0E4BC851A7D3C39D4330250916/1769890.png"
+      },
+      {
+        "id": 466,
+        "name": "Willbender",
+        "totalCost": 250,
+        "icon":
+          "https://render.guildwars2.com/file/117F4659C3AD0AF6625D51013F03D541BEF2E8A6/2479302.png"
       }
     ]
   },
@@ -123,7 +130,7 @@
         "name": "Shout Training",
         "totalCost": 15,
         "icon":
-          "https://render.guildwars2.com/file/0D6B235E679346723414607E61DE052576097545/104025.png"
+          "https://render.guildwars2.com/file/999EEC803BE421BD0835D8DC1EFE70C3A0EA0903/104117.png"
       },
       {
         "id": 117,
@@ -184,6 +191,13 @@
         "totalCost": 250,
         "icon":
           "https://render.guildwars2.com/file/06DFB7E3F267ADD0BB43C7383251343858371D02/1769896.png"
+      },
+      {
+        "id": 468,
+        "name": "Bladesworn",
+        "totalCost": 250,
+        "icon":
+          "https://render.guildwars2.com/file/9D0ADEDFDEACCCD2B27103A944B1E7F6C21DCBE2/2491509.png"
       }
     ]
   },
@@ -271,6 +285,13 @@
         "totalCost": 250,
         "icon":
           "https://render.guildwars2.com/file/F41CDEE4603FC0741669A7F2A7E977D36123DF7C/1769889.png"
+      },
+      {
+        "id": 470,
+        "name": "Mechanist",
+        "totalCost": 250,
+        "icon":
+          "https://render.guildwars2.com/file/F86CDF34404C0B5A01CD0CBB9D7D0DC1D8CC48CF/2503608.png"
       }
     ]
   },
@@ -290,7 +311,7 @@
         "name": "Trap Training",
         "totalCost": 15,
         "icon":
-          "https://render.guildwars2.com/file/CB69616296566AEB53A8B1B249533894284C6541/103926.png"
+          "https://render.guildwars2.com/file/F6C2FD7E78EE0D9178AEAEF8B1666477D1E92C99/103544.png"
       },
       {
         "id": 48,
@@ -308,7 +329,7 @@
       },
       {
         "id": 82,
-        "name": "Shout Training",
+        "name": "Command Training",
         "totalCost": 22,
         "icon":
           "https://render.guildwars2.com/file/0D6B235E679346723414607E61DE052576097545/104025.png"
@@ -365,6 +386,13 @@
         "totalCost": 250,
         "icon":
           "https://render.guildwars2.com/file/0AA4A2C62C4F2D0E0D59DBEE9C63EB4AF472F0C5/1769893.png"
+      },
+      {
+        "id": 471,
+        "name": "Untamed",
+        "totalCost": 250,
+        "icon":
+          "https://render.guildwars2.com/file/D219A813B5312BA9D1D10A74C10E9E5F3F54936B/2503609.png"
       }
     ]
   },
@@ -381,10 +409,10 @@
       },
       {
         "id": 49,
-        "name": "Trap Training",
+        "name": "Preparation Training",
         "totalCost": 13,
         "icon":
-          "https://render.guildwars2.com/file/CB69616296566AEB53A8B1B249533894284C6541/103926.png"
+          "https://render.guildwars2.com/file/7A6E5D360EC09AB9FCCA4098A9EB9A80DC33C7BE/2175064.png"
       },
       {
         "id": 114,
@@ -459,6 +487,13 @@
         "totalCost": 250,
         "icon":
           "https://render.guildwars2.com/file/F93EF1717238E9ACC1CA330D4416D324AE08585D/1769895.png"
+      },
+      {
+        "id": 472,
+        "name": "Specter",
+        "totalCost": 250,
+        "icon":
+          "https://render.guildwars2.com/file/E915E494C64037C93AB53FB6F2D414B468DBCA48/2503610.png"
       }
     ]
   },
@@ -553,6 +588,13 @@
         "totalCost": 250,
         "icon":
           "https://render.guildwars2.com/file/02FAA82BF2F5BF3E3AD89BCF05FF56B4C86139F4/1769888.png"
+      },
+      {
+        "id": 467,
+        "name": "Catalyst",
+        "totalCost": 250,
+        "icon":
+          "https://render.guildwars2.com/file/1DF8CD361899081107B504A02B01C9B3B3645970/2491507.png"
       }
     ]
   },
@@ -647,6 +689,13 @@
         "totalCost": 250,
         "icon":
           "https://render.guildwars2.com/file/6403ECA8E6C1683E2C9D075A39C154ED3A7C04A1/1769891.png"
+      },
+      {
+        "id": 464,
+        "name": "Virtuoso",
+        "totalCost": 250,
+        "icon":
+          "https://render.guildwars2.com/file/7B0F5E48320F35C0C6A2013ACF63F4C17B1105A5/2479303.png"
       }
     ]
   },
@@ -741,6 +790,13 @@
         "totalCost": 250,
         "icon":
           "https://render.guildwars2.com/file/1407ADE7787A6BF6E457F5FA6DFA1062A5FA93FD/1769892.png"
+      },
+      {
+        "id": 465,
+        "name": "Harbinger",
+        "totalCost": 250,
+        "icon":
+          "https://render.guildwars2.com/file/75B05DF5ED51D0153838EC134CEFCFC80D97DA0E/2479304.png"
       }
     ]
   },
@@ -828,6 +884,13 @@
         "totalCost": 250,
         "icon":
           "https://render.guildwars2.com/file/0152279F7DD0FCFA21F2D1CC17DE21B2BD58EFF3/1769894.png"
+      },
+      {
+        "id": 469,
+        "name": "Vindicator",
+        "totalCost": 250,
+        "icon":
+          "https://render.guildwars2.com/file/4FE40FD1ECD6C4EC45A32A2A740AC2E2A147E04F/2491508.png"
       }
     ]
   }
